@@ -23,6 +23,8 @@ If you think **ID&DeepMDS** is useful to your research, please cite:
       pages={3987--3996},
       year={2019}
     }
+    
+**Link** to the paper: https://arxiv.org/abs/1803.09672
 
 ### Requirements
 
